@@ -37,6 +37,7 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
      ![Cuplikan layar 2024-11-07 130832](https://github.com/user-attachments/assets/89110980-6575-4311-a12c-6496fd0b423e)
      
      Ketika admin menginputkan kata tidak, maka admin akan di arahkan untuk input username dan password nya dengan benar.
+     
 
 2. Jika memilih angka 2 maka akan langsung masuk sebagai pembeli dan akan diminta untuk login terlebih dahulu menggunakan username dan password yang sudah terdaftar untuk pembeli.
    
@@ -65,10 +66,11 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
      ![Cuplikan layar 2024-11-07 140352](https://github.com/user-attachments/assets/6678d964-126a-41ec-8dd2-ac207254ea80)
 
      Ketika pembeli menginputkan kata tidak, maka admin akan di arahkan untuk input username dan password nya yang sudah terdaftar dengan cara registrasi dengan benar.
+     
 
 3. Jika memilih angka 3 maka anda akan masuk ke menu registrasi untuk pembeli, dan pembeli diminta untuk menginputkan username, password, dan juga saldo tunai mereka
 
-   ![Cuplikan layar 2024-11-07 135243](https://github.com/user-attachments/assets/176eb18a-f618-48b5-ad7d-2f6ecddb5035)
+   ![Cuplikan layar 2024-11-07 141619](https://github.com/user-attachments/assets/6bf9a9ac-ac3c-4df6-aaa2-03e7004ab256)
 
    >> Output jika pembeli berhasil untuk registrasi adalah sebagai berikut:
 
@@ -88,33 +90,55 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
 
    Ketika pembeli menginputkan username ada angkanya, maka akan muncul pesan bahwa username tidak boleh ada angkanya, dan pembeli diminta untuk menginputkan username yang sesuai.
 
-   >> Output ketika username sudah terdaftar di data adalah sebagai berikut:
+   >> Output jika username sudah terdaftar di data adalah sebagai berikut:
 
-  ![Cuplikan layar 2024-11-07 144323](https://github.com/user-attachments/assets/1d0ddd54-85c0-493e-94c2-78bca47b32ac)
+   ![Cuplikan layar 2024-11-07 144323](https://github.com/user-attachments/assets/1d0ddd54-85c0-493e-94c2-78bca47b32ac)
   
-  Ketika username pembeli sudah terdaftar, maka akan muncul pesan bahwa username sudah terdaftar dan coba username lainnya, serta akan ada pilihan mau login akun atai registrasi akun baru.
+   Ketika username pembeli sudah terdaftar, maka akan muncul pesan bahwa username sudah terdaftar dan coba username lainnya, serta akan ada pilihan mau login akun atai registrasi akun baru.
   
-  * Jika pilih 1, yaitu login akun maka outputnya adalah sebagai berikut:
+    * Jika pilih 1, yaitu login akun maka outputnya adalah sebagai berikut:
 
-   ![Cuplikan layar 2024-11-07 144612](https://github.com/user-attachments/assets/a966e6a8-27a3-4c57-ab20-48d0710c8a7d)
+      ![Cuplikan layar 2024-11-07 144612](https://github.com/user-attachments/assets/a966e6a8-27a3-4c57-ab20-48d0710c8a7d)
 
-   Pembeli disuruh untuk menginputkan username dan password mereka yang sudah terdaftar.
+      Pembeli disuruh untuk menginputkan username dan password mereka yang sudah terdaftar.
    
    * Jika pilih 2, yaitu registrasi akun baru maka ouputnya adalah sebagai berikut:
 
-   ![Cuplikan layar 2024-11-07 145709](https://github.com/user-attachments/assets/51eac03f-4ba2-423b-b9e6-45b61d9ec709)
+     ![Cuplikan layar 2024-11-07 145709](https://github.com/user-attachments/assets/51eac03f-4ba2-423b-b9e6-45b61d9ec709)
 
-   Pembeli diminta untuk menginputkan username dan password baru, serta saldo tunainya.
+     Pembeli diminta untuk menginputkan username dan password baru, serta saldo tunainya.
 
-  >> Output ketika pembeli tidak menginputkan password adalah sebagai berikut:
+   >> Output jika pembeli tidak menginputkan password adalah sebagai berikut:
 
-  ![Cuplikan layar 2024-11-07 150124](https://github.com/user-attachments/assets/650a148a-7d8e-4047-8a14-bf6f40de0897)
+    ![Cuplikan layar 2024-11-07 150124](https://github.com/user-attachments/assets/650a148a-7d8e-4047-8a14-bf6f40de0897)
+   
+    Ketika pembeli mengosongkan inputan untuk password, maka muncul pesan bahwa input harus diisi dan mohon maaf coba lagi, serta pembeli akan diminta ulang untuk menginputkan usernamenya supaya bisa menginputkan passwordnya.
 
-  Ketika pembeli mengosongkan inputan untuk password, maka muncul pesan bahwa input harus diisi dan mohon maaf coba lagi, serta pembeli akan diminta ulang untuk menginputkan usernamenya supaya bisa menginputkan passwordnya.
+   >> Output jika pembeli menginputkan password hanya angka saja atau huruf saja adalah sebagai berikut:
 
-  >> Output Ketika pembeli menginputkan password hanya angka saja atau huruf saja adalah sebagai berikut:
+    ![Cuplikan layar 2024-11-07 150707](https://github.com/user-attachments/assets/befe5a68-aa4d-4e97-90db-9822e9738cf3)
 
-  ![Cuplikan layar 2024-11-07 150707](https://github.com/user-attachments/assets/befe5a68-aa4d-4e97-90db-9822e9738cf3)
+    Ketika pembeli menginputkan password hanya angka saja atau hanya huruf saja, maka akan muncul pesan bahwa password harus mengandung angka dan huruf, serta pembeli akan diminta ulang untuk menginputkan ulang dari username.
+
+   >> Output ketika pembeli menginputkan saldo < 0 adalah sebagai berikut:
+   
+   ![Cuplikan layar 2024-11-07 184046](https://github.com/user-attachments/assets/5c964441-5743-45e2-99f6-568d4dc0c47e)
+
+   Ketika pembeli menginputkan saldo tunai kurang dari 0, maka akan muncul pesan bahwa saldo tunai tidak bisa negatif, serta pembeli akan diminta ulang untuk menginputkan kembali username sampai dengan saldo tunai.
+
+   >> Output jika pembeli menginputkan saldo tunai bukan berupa angka tapi huruf adalah sebagai berikut:
+
+   ![Cuplikan layar 2024-11-07 184645](https://github.com/user-attachments/assets/035d9b80-f0a5-4e69-981b-523f2f05dfba)
+
+   Ketika pembeli menginputkan saldo tunai menggunakan huruf bukannya angka, maka akan muncul pesan bahwa saldo tunai harus berupa angka, serta pembeli akan diminta ulang untuk menginputkan kembali username sampai dengan saldo tunai.
+   
+
+4. Jika memilih angka 4 maka akan langsung diarahkan untuk keluar dari program.
+
+   ![Cuplikan layar 2024-11-07 190639](https://github.com/user-attachments/assets/f486070a-f2f2-4ab3-9a7f-d95b44b48d01)
+
+
+
 
   
 
