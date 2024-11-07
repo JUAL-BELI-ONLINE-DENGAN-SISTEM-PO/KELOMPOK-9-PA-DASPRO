@@ -151,7 +151,31 @@ Pada menu admin, terdapat 5 pilihan yang dapat dilakukam oleh seorang admin yait
 
 ![Cuplikan layar 2024-11-07 195844](https://github.com/user-attachments/assets/d377e756-a999-48c9-a897-612fc31f10f0)
 
-Di tambah produk admin diminta untuk menginputkan
+Di tambah produk admin diminta untuk menginputkan nama produk, harga, stok, pre order (yes/no), dan deskripsi
+
+>> Output ketika produk berhasil ditambahkan ke dalam data adalah sebagai berikut:
+
+![Cuplikan layar 2024-11-08 040736](https://github.com/user-attachments/assets/0b4bcc0c-d70a-4e51-93be-7ba52b117c8c)
+
+Ketika admin berhasil menambahkan produk baru, maka akan muncul pesan bahwa produk berhasil ditambahkan, serta admin akan ditanya apakah ingin menambahkan produk lagi dengan sistem looping (ya/tidak).
+
+* Jika ya, maka admin akan diminta untuk menginputkan nama produk lagi sampai dengan deskripsi.
+
+  ![Cuplikan layar 2024-11-08 041306](https://github.com/user-attachments/assets/67fc0677-ccd3-4b92-b342-789e7dbc075e)
+
+* Jika tidak, maka admin di arahkan kembali ke menu admin.
+  
+  ![Cuplikan layar 2024-11-08 041717](https://github.com/user-attachments/assets/1a06dfcc-02b1-4fc5-8e8e-b2393e3784b9)
+
+>> Output jika admin menginputkan data yang tidak sesuai. Maka akan diarahkan lagi ke menu admin.
+
+![Cuplikan layar 2024-11-08 042235](https://github.com/user-attachments/assets/7a761f8b-c085-4cbc-8955-2e4bc0666804)
+
+
+
+
+
+
 
 
 
