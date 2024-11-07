@@ -11,9 +11,7 @@ Nama Anggota Kelompok 9:
 Pada awal program akan menampilkan menu awal seperti gambar diatas, Kita diminta untuk menginputkan menu yang ingin dipilih yaitu dari angka (1-4):
 
 1. Jika memilih angka 1 maka akan langsung masuk sebagai admin dan akan diminta untuk login terlebih dahulu menggunakan username dan password yang terdaftar untuk admin.
-   
-   ![Cuplikan layar 2024-11-07 113104](https://github.com/user-attachments/assets/28dc4fc3-a256- 
-   4300-84d2-50a6d4716630)
+   ![Cuplikan layar 2024-11-07 113104](https://github.com/user-attachments/assets/b4d5fe46-bf31-4522-a63e-c82473905de7)
 
-   > Output jika admin berhasil untuk login
+   >> Output jika admin berhasil untuk login
    
