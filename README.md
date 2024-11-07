@@ -47,12 +47,12 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
    ![Cuplikan layar 2024-11-07 135441](https://github.com/user-attachments/assets/88a2770a-e5b2-4597-ac6f-475631d25cee)
 
     Ketika pembeli menginputkan username dan password yang sudah terdaftar dengan cara registrasi yaitu username "zahratur" dan password "zahra29", maka Anda dinyatakan berhasil untuk login sebagai pembeli. Setelah berhasil login pembeli akan di arahkan ke menu pembeli dan di menu pembeli bisa melakukan lihat produk, beli produk, cek saldo e-money, top up saldo e-money dan juga logout.
-
-   >> Output jika pembeli gagal login
    
-  ![Cuplikan layar 2024-11-07 135904](https://github.com/user-attachments/assets/9cc4c836-5fc7-4588-bdb6-51a06bfa32d9)
+    >> Output jika pembeli gagal login
 
-   Ketika pembeli salah menginputkan username dan password, maka pembeli akan ditanya apakah ingin kembali ke menu utama dengan sistem looping (ya/tidak).
+    ![Cuplikan layar 2024-11-07 135904](https://github.com/user-attachments/assets/d9d3570b-00e0-4bb6-bfd5-7d8f20941c7d)
+
+    Ketika pembeli salah menginputkan username dan password, maka pembeli akan ditanya apakah ingin kembali ke menu utama dengan sistem looping (ya/tidak).
 
    * Jika ya, maka output nya adalah sebagai berikut:
 
@@ -68,23 +68,23 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
 
 3. Jika memilih angka 3 maka anda akan masuk ke menu registrasi untuk pembeli, dan pembeli diminta untuk menginputkan username, password, dan juga saldo tunai mereka
 
-![Cuplikan layar 2024-11-07 141619](https://github.com/user-attachments/assets/37a54aab-bad8-44ad-ae70-dce86980e245)
+   ![Cuplikan layar 2024-11-07 135243](https://github.com/user-attachments/assets/176eb18a-f618-48b5-ad7d-2f6ecddb5035)
 
->> Output jika pembeli berhasil untuk registrasi adalah sebagai berikut:
+   >> Output jika pembeli berhasil untuk registrasi adalah sebagai berikut:
 
-![Cuplikan layar 2024-11-07 141905](https://github.com/user-attachments/assets/bd111576-5186-4a57-b269-fbf42cc91d29)
+  ![Cuplikan layar 2024-11-07 141905](https://github.com/user-attachments/assets/bd111576-5186-4a57-b269-fbf42cc91d29)
+  
+  Ketika pembeli berhasil untuk registrasi maka akan muncul pesan bahwa registrasi akun berhasil dan akan di arahkan kembali ke menu utama untuk melakukan login sebagai admin.
+  
+   >> Output jika pembeli tidak menginputkan username adalah sebagai berikut:
 
-Ketika pembeli berhasil untuk registrasi maka akan muncul pesan bahwa registrasi akun berhasil dan akan di arahkan kembali ke menu utama untuk melakukan login sebagai admin.
+  ![Cuplikan layar 2024-11-07 142229](https://github.com/user-attachments/assets/3eaac160-79f8-4b8f-afc7-50a8d4c34b8e)
+  
+  Ketika pembeli mengosongkan inputan untuk username, maka muncul pesan bahwa input harus diisi dan silakan coba lagi, serta pembeli akan diminta ulang untuk menginputkan username.
 
->> Output jika pembeli tidak menginputkan username adalah sebagai berikut:
+   >> Output jika username nya tidak huruf semua, tetapi ada angkanya adalah sebagai berikut:
 
-![Cuplikan layar 2024-11-07 142229](https://github.com/user-attachments/assets/3eaac160-79f8-4b8f-afc7-50a8d4c34b8e)
-
- Ketika pembeli mengosongkan inputan untuk username, maka muncul pesan bahwa input harus diisi dan silakan coba lagi, serta pembeli akan diminta ulang untuk menginputkan username.
-
->> Output jika username nya tidak huruf semua, tetapi ada angkanya adalah sebagai berikut:
-
-![Cuplikan layar 2024-11-07 143212](https://github.com/user-attachments/assets/e50258ee-f6f6-4dd5-9a30-ba3629b2f1a5)
+   ![Cuplikan layar 2024-11-07 143212](https://github.com/user-attachments/assets/e50258ee-f6f6-4dd5-9a30-ba3629b2f1a5)
 
 Ketika pembeli menginputkan username ada angkanya, maka akan muncul pesan bahwa username tidak boleh ada angkanya, dan pembeli diminta untuk menginputkan username yang sesuai.
 
