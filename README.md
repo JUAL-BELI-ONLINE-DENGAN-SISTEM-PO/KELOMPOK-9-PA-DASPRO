@@ -141,6 +141,18 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
 
 # MENU-MENU ADMIN (CRUD)
 
+Untuk bisa mengakses menu admin, admin harus melakukan login terlebih dahulu:
+
+![Cuplikan layar 2024-11-07 193232](https://github.com/user-attachments/assets/f699d2a2-ed5c-4d8d-9b73-c42f5822f9ac)
+
+Pada menu admin, terdapat 5 pilihan yang dapat dilakukam oleh seorang admin yaitu: Tambah produk, Lihat Produk, Update Produk, Delete Produk, dan juga logout. Admin dapat menginputkan menu yang diinginkan yaitu dari angka (1-5):
+
+~ Jika admin memilih angka 1, maka admin akan di arahkan untuk ke menu tambah produk
+
+![Cuplikan layar 2024-11-07 195844](https://github.com/user-attachments/assets/d377e756-a999-48c9-a897-612fc31f10f0)
+
+Di tambah produk admin diminta untuk menginputkan
+
 
 
   
