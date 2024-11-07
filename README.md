@@ -72,49 +72,49 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
 
    >> Output jika pembeli berhasil untuk registrasi adalah sebagai berikut:
 
-  ![Cuplikan layar 2024-11-07 141905](https://github.com/user-attachments/assets/bd111576-5186-4a57-b269-fbf42cc91d29)
-  
-  Ketika pembeli berhasil untuk registrasi maka akan muncul pesan bahwa registrasi akun berhasil dan akan di arahkan kembali ke menu utama untuk melakukan login sebagai admin.
+   ![Cuplikan layar 2024-11-07 141905](https://github.com/user-attachments/assets/bd111576-5186-4a57-b269-fbf42cc91d29)
+
+   Ketika pembeli berhasil untuk registrasi maka akan muncul pesan bahwa registrasi akun berhasil dan akan di arahkan kembali ke menu utama untuk melakukan login sebagai admin.
   
    >> Output jika pembeli tidak menginputkan username adalah sebagai berikut:
 
-  ![Cuplikan layar 2024-11-07 142229](https://github.com/user-attachments/assets/3eaac160-79f8-4b8f-afc7-50a8d4c34b8e)
-  
-  Ketika pembeli mengosongkan inputan untuk username, maka muncul pesan bahwa input harus diisi dan silakan coba lagi, serta pembeli akan diminta ulang untuk menginputkan username.
+   ![Cuplikan layar 2024-11-07 142229](https://github.com/user-attachments/assets/3eaac160-79f8-4b8f-afc7-50a8d4c34b8e)
+
+   Ketika pembeli mengosongkan inputan untuk username, maka muncul pesan bahwa input harus diisi dan silakan coba lagi, serta pembeli akan diminta ulang untuk menginputkan username.
 
    >> Output jika username nya tidak huruf semua, tetapi ada angkanya adalah sebagai berikut:
 
    ![Cuplikan layar 2024-11-07 143212](https://github.com/user-attachments/assets/e50258ee-f6f6-4dd5-9a30-ba3629b2f1a5)
 
-Ketika pembeli menginputkan username ada angkanya, maka akan muncul pesan bahwa username tidak boleh ada angkanya, dan pembeli diminta untuk menginputkan username yang sesuai.
+   Ketika pembeli menginputkan username ada angkanya, maka akan muncul pesan bahwa username tidak boleh ada angkanya, dan pembeli diminta untuk menginputkan username yang sesuai.
 
->> Output ketika username sudah terdaftar di data adalah sebagai berikut:
+   >> Output ketika username sudah terdaftar di data adalah sebagai berikut:
 
-![Cuplikan layar 2024-11-07 144323](https://github.com/user-attachments/assets/1d0ddd54-85c0-493e-94c2-78bca47b32ac)
-
-Ketika username pembeli sudah terdaftar, maka akan muncul pesan bahwa username sudah terdaftar dan coba username lainnya, serta akan ada pilihan mau login akun atai registrasi akun baru.
-
- * Jika pilih 1, yaitu login akun maka outputnya adalah sebagai berikut:
+  ![Cuplikan layar 2024-11-07 144323](https://github.com/user-attachments/assets/1d0ddd54-85c0-493e-94c2-78bca47b32ac)
+  
+  Ketika username pembeli sudah terdaftar, maka akan muncul pesan bahwa username sudah terdaftar dan coba username lainnya, serta akan ada pilihan mau login akun atai registrasi akun baru.
+  
+  * Jika pilih 1, yaitu login akun maka outputnya adalah sebagai berikut:
 
    ![Cuplikan layar 2024-11-07 144612](https://github.com/user-attachments/assets/a966e6a8-27a3-4c57-ab20-48d0710c8a7d)
 
    Pembeli disuruh untuk menginputkan username dan password mereka yang sudah terdaftar.
-
- * Jika pilih 2, yaitu registrasi akun baru maka ouputnya adalah sebagai berikut:
+   
+   * Jika pilih 2, yaitu registrasi akun baru maka ouputnya adalah sebagai berikut:
 
    ![Cuplikan layar 2024-11-07 145709](https://github.com/user-attachments/assets/51eac03f-4ba2-423b-b9e6-45b61d9ec709)
 
    Pembeli diminta untuk menginputkan username dan password baru, serta saldo tunainya.
 
->> Output ketika pembeli tidak menginputkan password adalah sebagai berikut:
+  >> Output ketika pembeli tidak menginputkan password adalah sebagai berikut:
 
   ![Cuplikan layar 2024-11-07 150124](https://github.com/user-attachments/assets/650a148a-7d8e-4047-8a14-bf6f40de0897)
 
   Ketika pembeli mengosongkan inputan untuk password, maka muncul pesan bahwa input harus diisi dan mohon maaf coba lagi, serta pembeli akan diminta ulang untuk menginputkan usernamenya supaya bisa menginputkan passwordnya.
 
->> Output Ketika pembeli menginputkan password hanya angka saja atau huruf saja adalah sebagai berikut:
+  >> Output Ketika pembeli menginputkan password hanya angka saja atau huruf saja adalah sebagai berikut:
 
-![Cuplikan layar 2024-11-07 150707](https://github.com/user-attachments/assets/befe5a68-aa4d-4e97-90db-9822e9738cf3)
+  ![Cuplikan layar 2024-11-07 150707](https://github.com/user-attachments/assets/befe5a68-aa4d-4e97-90db-9822e9738cf3)
 
   
 
