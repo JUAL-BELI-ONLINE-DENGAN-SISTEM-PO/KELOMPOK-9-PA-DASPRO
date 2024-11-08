@@ -325,6 +325,24 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 
 ![Cuplikan layar 2024-11-08 114246](https://github.com/user-attachments/assets/3a90994a-e35f-41fe-9266-27c1ec77edf7)
 
+>> Output jika pembeli salah menginputkan username nya pasa saat pembayaran
+
+![Cuplikan layar 2024-11-08 114935](https://github.com/user-attachments/assets/415bb1fd-6c12-4a7a-b8a8-b0a59e9221c1)
+
+>> Output jika pas pembayaran saldo e-money pembeli kurang
+
+![Cuplikan layar 2024-11-08 115417](https://github.com/user-attachments/assets/502797af-838e-4074-8223-2db11fe88282)
+
+~  Jika pembeli memilih angka 3, maka pembeli akan diarahkan untuk menu cek saldo e-money.Setelah itu pembeli otomatis ke menu pembeli.
+
+![Cuplikan layar 2024-11-08 115631](https://github.com/user-attachments/assets/33b085cd-b83e-4260-bcf5-793edcf70f33)
+
+
+
+
+
+
+
 
 
 
