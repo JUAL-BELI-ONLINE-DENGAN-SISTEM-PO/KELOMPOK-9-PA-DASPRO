@@ -12,7 +12,7 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
 
 1. Jika memilih angka 1 maka akan langsung masuk sebagai admin dan akan diminta untuk login terlebih dahulu menggunakan username dan password yang terdaftar untuk admin.
    
-   ![Cuplikan layar 2024-11-07 113104](https://github.com/user-attachments/assets/b4d5fe46-bf31-4522-a63e-c82473905de7)🛍️
+   ![Cuplikan layar 2024-11-07 113104](https://github.com/user-attachments/assets/b4d5fe46-bf31-4522-a63e-c82473905de7)
 
    >> Output jika admin berhasil untuk login
    
