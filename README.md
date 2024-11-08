@@ -3,8 +3,8 @@
 # Sistem Informasi Kelas A
 Nama Anggota Kelompok 9:
 1. Zahraturramadhani 👩‍🦰
-2. Rahmad Ramadhan 👱‍♂️
-3. Yardan Raditya Rafi' Widyadhana 👱‍♂️
+2. Rahmad Ramadhan 👦
+3. Yardan Raditya Rafi' Widyadhana 👦
 
 ![Cuplikan layar 2024-11-07 111511](https://github.com/user-attachments/assets/2ad89afe-e72f-400b-9e9f-b4fc60852096)
 
@@ -333,9 +333,49 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 
 ![Cuplikan layar 2024-11-08 115417](https://github.com/user-attachments/assets/502797af-838e-4074-8223-2db11fe88282)
 
-~  Jika pembeli memilih angka 3, maka pembeli akan diarahkan untuk menu cek saldo e-money.Setelah itu pembeli otomatis ke menu pembeli.
+~  Jika pembeli memilih angka 3, maka pembeli akan diarahkan untuk menu cek saldo e-money dengan menginputkan username yang sudah terdaftar. Setelah itu pembeli otomatis ke menu pembeli.
 
-![Cuplikan layar 2024-11-08 115631](https://github.com/user-attachments/assets/33b085cd-b83e-4260-bcf5-793edcf70f33)
+![Cuplikan layar 2024-11-08 161710](https://github.com/user-attachments/assets/3eade7f3-8588-4bc9-b5fd-fec58c5b26ce)
+
+⫸ Output jika pembeli menginputkan username yang tidak terdaftar di data.
+
+![Cuplikan layar 2024-11-08 162210](https://github.com/user-attachments/assets/aea31bc1-e013-4bcd-bdd7-e8023f5509de)
+
+~  Jika pembeli memilih angka 4, maka pembeli akan diarahkan untuk menu top up saldo e-money dengan menginputkan username yang sudah terdaftar terlebih dahulu sebelum top up. Setelah itu pembeli otomatis kembali ke menu pembeli.
+
+![Cuplikan layar 2024-11-08 163757](https://github.com/user-attachments/assets/8afc544a-1984-457d-a4b3-e64a07869d36)
+
+⫸ Output jika pembeli menginputkan username yang sudah terdaftar sebelumnya.
+
+![Cuplikan layar 2024-11-08 163932](https://github.com/user-attachments/assets/72e81be5-ebe6-49b6-97e2-b867f2a87bb9)
+
+Ketika pembeli berhasil menginputkan username, maka akan diarahkan ke pilihan nominaal-nominal untuk top up.
+
+⫸ Output jika menginputkan username yang belum terdaftar.
+
+![Cuplikan layar 2024-11-08 164734](https://github.com/user-attachments/assets/b8fb520e-2a8b-429c-9cab-ecc5b9634eb7)
+
+⫸ Ouput jika pembeli berhasil untuk top up saldo e-money.
+
+![Cuplikan layar 2024-11-08 165301](https://github.com/user-attachments/assets/699cfe3c-86ce-4082-8d3e-eb388cfa1f15)
+
+~  Jika pembeli memilih angka 5, maka pembeli akan diarahkan untuk menu logout, dan pembeli otomatis akan kembali ke menu utama.
+
+![Cuplikan layar 2024-11-08 165758](https://github.com/user-attachments/assets/f28bede1-af79-4c32-9829-e02f1130267a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
