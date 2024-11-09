@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "nama": "Apple - iPhone 13 Pro Max",
+            "harga": "10249000",
+            "stok": 3,
+            "pre_order": false,
+            "tanggal_ketersediaan": "Tersedia sekarang",
+            "deskripsi": "Chip A15 Bionic dengan layar OLED Super Retina XDR."
+        },
+        {
+            "nama": "Samsung - Galaxy S22 Ultra",
+            "harga": "17899000",
+            "stok": 0,
+            "pre_order": true,
+            "tanggal_ketersediaan": "2024-12-12",
+            "deskripsi": "Prosesor Exynos 2200 dengan layar Dynamic AMOLED 120Hz."
+        },
+        {
+            "nama": "Xiaomi - Mi 11 Ultra",
+            "harga": "16999000",
+            "stok": 8,
+            "pre_order": false,
+            "tanggal_ketersediaan": "Tersedia Sekarang",
+            "deskripsi": "Chip Snapdragon 888 dengan layar AMOLED 120Hz."
+        },
+        {
+            "nama": "Lenovo - Ideapad Slim 3 14IAH8",
+            "harga": "9499000",
+            "stok": 5,
+            "pre_order": false,
+            "tanggal_ketersediaan": "Tersedia sekarang",
+            "deskripsi": "12th Gen Intel Core i5-12450H dengan RAM 16GB memori 512GB."
+        },
+        {
+            "nama": "MSI - Cyborg 15 A12VF-1435ID",
+            "harga": "15799000",
+            "stok": 3,
+            "pre_order": false,
+            "tanggal_ketersediaan": "Tersedia Sekarang",
+            "deskripsi": "Intel Core i7-12650H, NVIDIA GeForce RTX 4060, GDDR6 8GB."
+        },
+        {
+            "nama": "Samsung Galaxy A55 5G",
+            "harga": "5000000",
+            "stok": 0,
+            "pre_order": true,
+            "tanggal_ketersediaan": "2024-12-12",
+            "deskripsi": "Layar 6.6, kamera utama 50+12+5 MP, Penyimpanan 256 GB"
+        }
+    ]
+}
