@@ -81,7 +81,7 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
 
    ![Cuplikan layar 2024-11-07 141905](https://github.com/user-attachments/assets/bd111576-5186-4a57-b269-fbf42cc91d29)
 
-   Ketika pembeli berhasil untuk registrasi maka akan muncul pesan bahwa registrasi akun berhasil dan akan di arahkan kembali ke menu utama untuk melakukan login sebagai admin.
+   Ketika pembeli berhasil untuk registrasi maka akan muncul pesan bahwa registrasi akun berhasil dan akan di arahkan kembali ke menu utama untuk melakukan login sebagai pembeli.
   
    >> Output jika pembeli tidak menginputkan username adalah sebagai berikut:
 
@@ -147,7 +147,7 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
 
 6. Jika memilih angka selain angka (1-4), maka akan otomatis kembali ke menu utama.
 
-![Cuplikan layar 2024-11-09 221239](https://github.com/user-attachments/assets/1c7da64d-bf24-4faf-a928-61c2dae8435d)
+   ![Cuplikan layar 2024-11-09 221239](https://github.com/user-attachments/assets/1c7da64d-bf24-4faf-a928-61c2dae8435d)
 
    
 
@@ -158,7 +158,7 @@ Untuk bisa mengakses menu admin, admin harus melakukan login terlebih dahulu:
 
 ![Cuplikan layar 2024-11-07 193232](https://github.com/user-attachments/assets/f699d2a2-ed5c-4d8d-9b73-c42f5822f9ac)
 
-Pada menu admin, terdapat 5 pilihan yang dapat dilakukam oleh seorang admin yaitu: Tambah produk, Lihat Produk, Update Produk, Delete Produk, dan juga logout. Admin dapat menginputkan menu yang diinginkan yaitu dari angka (1-5):
+Pada menu admin, terdapat 5 pilihan yang dapat dilakukan oleh seorang admin yaitu: Tambah produk, Lihat Produk, Update Produk, Delete Produk, dan juga logout. Admin dapat menginputkan menu yang diinginkan yaitu dari angka (1-5):
 
 
 ~ Jika admin memilih angka 1, maka admin akan di arahkan untuk ke menu tambah produk
@@ -201,7 +201,7 @@ Ketika admin berhasil menambahkan produk baru, maka akan muncul pesan bahwa prod
 
 ![Cuplikan layar 2024-11-09 211600](https://github.com/user-attachments/assets/ed8a77e9-354f-46f4-a3c6-435de6577d94)
 
->> Output jika menginputtkan barang yang sedang pre-order, maka admin diminta untuk menginputkan tanggal ketersediaan
+>> Output jika menginputkan barang yang sedang pre-order, maka admin diminta untuk menginputkan tanggal ketersediaan
 
 ![Cuplikan layar 2024-11-08 090657](https://github.com/user-attachments/assets/be794cc0-cc86-40e9-b870-3b1aa2d2ed4b)
 
@@ -300,7 +300,7 @@ Setelah menghapus produk admin ditanya apakah ingin menghapus produk lagi dengan
 
 Ketika admin memilih angka 5 maka ia akan logout dari program menu admin dan akan diarahkan kembali ke menu utama.
 
-~~ Jika admin memilih pilihan menu selain angka (1-5), maka admin otomatis kembali ke menu admin.
+~ Jika admin memilih pilihan menu selain angka (1-5), maka admin otomatis kembali ke menu admin.
 
 ![Cuplikan layar 2024-11-09 220428](https://github.com/user-attachments/assets/7802b52b-6383-49d9-9b53-0aa724782ba4)
 
@@ -312,7 +312,7 @@ Untuk bisa mengakses menu pembeli, pembeli harus melakukan login terlebih dahulu
 
 ![Cuplikan layar 2024-11-08 104946](https://github.com/user-attachments/assets/47b325f6-dd44-4ce7-82ad-0d25d967fcf7)
 
-Pada menu pembeli, terdapat 5 pilihan yang dapat dilakukam oleh seorang pembeli yaitu: Lihat Produk, Beli Produk, Cek Saldo E-Money, Top Up Saldo E-Money dan juga logout. Pembeli dapat menginputkan menu yang diinginkan yaitu dari angka (1-5):
+Pada menu pembeli, terdapat 5 pilihan yang dapat dilakukan oleh seorang pembeli yaitu: Lihat Produk, Beli Produk, Cek Saldo E-Money, Top Up Saldo E-Money dan juga logout. Pembeli dapat menginputkan menu yang diinginkan yaitu dari angka (1-5):
 
 ~ Jika pembeli memilih angka 1,  maka pembeli akan di arahkan untuk ke menu lihat produk. Setelah itu secara otomatis kembali ke menu pembeli.
 
@@ -384,7 +384,7 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 
 ![Cuplikan layar 2024-11-09 164313](https://github.com/user-attachments/assets/69a04b2c-1215-4ad0-a258-8b9f6c26b05a)
 
-~  Jika pembeli memilih angka 4, maka pembeli akan diarahkan untuk menu top up saldo e-money dengan menginputkan pilihan top up yang ada Setelah itu pembeli otomatis kembali ke menu pembeli.
+~  Jika pembeli memilih angka 4, maka pembeli akan diarahkan untuk menu top up saldo e-money dengan menginputkan pilihan top up yang ada. Setelah itu pembeli otomatis kembali ke menu pembeli.
 
 ![Cuplikan layar 2024-11-09 154616](https://github.com/user-attachments/assets/25c1389a-34c4-476b-b535-44bca1115606)
 
