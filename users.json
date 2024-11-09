@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin123",
+            "role": "admin"
+        },
+        {
+            "username": "ramadhani",
+            "password": "rara06",
+            "role": "buyer",
+            "saldo_e_money": 0,
+            "saldo_tunai": 50000000
+        },
+        {
+            "username": "zahratur",
+            "password": "zahra29",
+            "role": "buyer",
+            "saldo_e_money": 20752000,
+            "saldo_tunai": 24500000
+        }
+    ]
+}
