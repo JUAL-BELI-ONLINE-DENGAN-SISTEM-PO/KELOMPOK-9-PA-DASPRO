@@ -126,6 +126,10 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
 
     Ketika pembeli menginputkan password hanya angka saja atau hanya huruf saja, maka akan muncul pesan bahwa password harus mengandung angka dan huruf, serta pembeli akan diminta ulang untuk menginputkan ulang dari username.
 
+   >> Output jika pembeli tidak menginputkan saldonya.
+   
+   ![Cuplikan layar 2024-11-09 210208](https://github.com/user-attachments/assets/d8eb61a8-62bd-40af-9760-8173e2aafc8b)
+
    >> Output ketika pembeli menginputkan saldo < 0 adalah sebagai berikut:
    
    ![Cuplikan layar 2024-11-07 184046](https://github.com/user-attachments/assets/5c964441-5743-45e2-99f6-568d4dc0c47e)
@@ -139,7 +143,7 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
    Ketika pembeli menginputkan saldo tunai menggunakan huruf bukannya angka, maka akan muncul pesan bahwa saldo tunai harus berupa angka, serta pembeli akan diminta ulang untuk menginputkan kembali username sampai dengan saldo tunai.
    
 
-4. Jika memilih angka 4 maka akan langsung diarahkan untuk keluar dari program.
+5. Jika memilih angka 4 maka akan langsung diarahkan untuk keluar dari program.
 
    ![Cuplikan layar 2024-11-07 190639](https://github.com/user-attachments/assets/f486070a-f2f2-4ab3-9a7f-d95b44b48d01)
    
@@ -174,13 +178,33 @@ Ketika admin berhasil menambahkan produk baru, maka akan muncul pesan bahwa prod
   
   ![Cuplikan layar 2024-11-08 041717](https://github.com/user-attachments/assets/1a06dfcc-02b1-4fc5-8e8e-b2393e3784b9)
 
+>> Output jika admin menginputkan nama produk yang telah ada di dalam daftar produk
+
+![Cuplikan layar 2024-11-09 210702](https://github.com/user-attachments/assets/a84b36fe-6f09-41c5-b94b-2fb551b99dd4)
+
+>> Output jika admin tidak menginputkan nama produk
+
+![Cuplikan layar 2024-11-09 210910](https://github.com/user-attachments/assets/0573ddcd-6f3e-4fe1-8854-b21d9a11aed6)
+
 >> Output jika admin menginputkan data yang tidak sesuai. Maka akan diarahkan lagi ke menu admin.
 
 ![Cuplikan layar 2024-11-08 042235](https://github.com/user-attachments/assets/7a761f8b-c085-4cbc-8955-2e4bc0666804)
 
+>> Output jika admin tidak menginputkan harga, harga kurang dari 0, dan juga harga diinputkan dengan huruf bukan angka.
+
+![Cuplikan layar 2024-11-09 211215](https://github.com/user-attachments/assets/5aaa8655-84e8-4dfa-bd6d-f3c45a64deb3)
+
+>> Output jika admin tidak menginputkan stok, stok kurang dari 0, dan juga stok diinputkan dengan huruf bukan angka.
+
+![Cuplikan layar 2024-11-09 211600](https://github.com/user-attachments/assets/ed8a77e9-354f-46f4-a3c6-435de6577d94)
+
 >> Output jika menginputtkan barang yang sedang pre-order, maka admin diminta untuk menginputkan tanggal ketersediaan
 
 ![Cuplikan layar 2024-11-08 090657](https://github.com/user-attachments/assets/be794cc0-cc86-40e9-b870-3b1aa2d2ed4b)
+
+>> Output jika admin tidak menginputkan tanggal ketersediaan, format tanggal ketersedian yang salah.
+
+![Cuplikan layar 2024-11-09 211952](https://github.com/user-attachments/assets/6fa15265-16ad-4bd0-8bc5-a02a6e4a77f8)
 
 
 ~ Jika admin memilih angka 2,  maka admin akan di arahkan untuk ke menu lihat produk. Setelah itu akan diarahkan kembali ke menu admin.
