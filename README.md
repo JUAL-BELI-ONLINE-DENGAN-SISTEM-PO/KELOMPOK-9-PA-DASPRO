@@ -327,11 +327,11 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 
 >> Output jika pas pembayaran saldo e-money pembeli kurang
 
-![Cuplikan layar 2024-11-08 115417](https://github.com/user-attachments/assets/502797af-838e-4074-8223-2db11fe88282)
+![Cuplikan layar 2024-11-09 164802](https://github.com/user-attachments/assets/1b7a11b0-ba0a-47c3-8831-d7047482f412)
 
-~  Jika pembeli memilih angka 3, maka pembeli akan diarahkan untuk menu cek saldo e-money dengan menginputkan username yang sudah terdaftar. Setelah itu pembeli otomatis ke menu pembeli.
+~  Jika pembeli memilih angka 3, maka pembeli akan diarahkan untuk menu cek saldo e-money. Setelah itu pembeli otomatis ke menu pembeli.
 
-![Cuplikan layar 2024-11-08 161710](https://github.com/user-attachments/assets/3eade7f3-8588-4bc9-b5fd-fec58c5b26ce)
+![Cuplikan layar 2024-11-09 164313](https://github.com/user-attachments/assets/69a04b2c-1215-4ad0-a258-8b9f6c26b05a)
 
 ~  Jika pembeli memilih angka 4, maka pembeli akan diarahkan untuk menu top up saldo e-money dengan menginputkan pilihan top up yang ada Setelah itu pembeli otomatis kembali ke menu pembeli.
 
@@ -339,15 +339,25 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 
 ⫸ Output jika pembeli berhasil untuk top up saldo e-money.
 
-![Cuplikan layar 2024-11-08 165301](https://github.com/user-attachments/assets/699cfe3c-86ce-4082-8d3e-eb388cfa1f15)
+![Cuplikan layar 2024-11-09 165307](https://github.com/user-attachments/assets/459b4448-d346-4931-be39-03803f6a5ee1)
 
 ⫸ Output jika pembeli menginputkan pilihan top up yang tidak ada di data.
 
+![Cuplikan layar 2024-11-09 165022](https://github.com/user-attachments/assets/6554f8df-2999-4cec-b28c-af58427851af)
+
+⫸ Output jika saldo tunai tidak cukup untuk top up e-money.
+
+![Cuplikan layar 2024-11-09 165705](https://github.com/user-attachments/assets/687c67d5-d7c8-42bb-8309-5a1a95ea6723)
+
+⫸ Output jika menginputkan pilihan top up menggunakan huruf bukan angka.
+
+![Cuplikan layar 2024-11-09 170135](https://github.com/user-attachments/assets/96df474c-b544-497b-a6d5-4f7457ceb57c)
 
 
 ~  Jika pembeli memilih angka 5, maka pembeli akan diarahkan untuk menu logout, dan pembeli otomatis akan kembali ke menu utama.
 
 ![Cuplikan layar 2024-11-08 165758](https://github.com/user-attachments/assets/f28bede1-af79-4c32-9829-e02f1130267a)
+
 
 
 
