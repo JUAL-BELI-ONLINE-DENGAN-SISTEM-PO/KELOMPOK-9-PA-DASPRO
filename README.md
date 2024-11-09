@@ -11,7 +11,6 @@ Nama Anggota Kelompok 9:
 ![SEMUANYA drawio (1)](https://github.com/user-attachments/assets/16696103-8881-48e6-b497-e3373cb549ee)
 
 
-
 ![Cuplikan layar 2024-11-07 111511](https://github.com/user-attachments/assets/2ad89afe-e72f-400b-9e9f-b4fc60852096)
 
 Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita diminta untuk menginputkan menu yang ingin dipilih yaitu dari angka (1-4):
@@ -142,10 +141,14 @@ Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita d
 
    Ketika pembeli menginputkan saldo tunai menggunakan huruf bukannya angka, maka akan muncul pesan bahwa saldo tunai harus berupa angka, serta pembeli akan diminta ulang untuk menginputkan kembali username sampai dengan saldo tunai.
    
-
 5. Jika memilih angka 4 maka akan langsung diarahkan untuk keluar dari program.
 
    ![Cuplikan layar 2024-11-07 190639](https://github.com/user-attachments/assets/f486070a-f2f2-4ab3-9a7f-d95b44b48d01)
+
+6. Jika memilih angka selain angka (1-4), maka akan otomatis kembali ke menu utama.
+
+![Cuplikan layar 2024-11-09 221239](https://github.com/user-attachments/assets/1c7da64d-bf24-4faf-a928-61c2dae8435d)
+
    
 
 
@@ -237,6 +240,10 @@ Serta admin akan ditanya apakah ingin menambahkan produk lagi dengan sistem loop
 
 ![Cuplikan layar 2024-11-08 095346](https://github.com/user-attachments/assets/117d5e50-520e-4eed-9f06-da3437a5b68e)
 
+>> Output jika menginputkan nomor produk yang tidak ada di daftar produk.
+
+![Cuplikan layar 2024-11-09 214126](https://github.com/user-attachments/assets/d2c56731-ab10-46aa-a778-3c28f399fe31)
+
 >> Output jika menginputkan harga menggunakan huruf bukan angka.
 
 ![Cuplikan layar 2024-11-08 095750](https://github.com/user-attachments/assets/39380c28-85e3-42da-9c42-3cb487ce6693)
@@ -293,6 +300,10 @@ Setelah menghapus produk admin ditanya apakah ingin menghapus produk lagi dengan
 
 Ketika admin memilih angka 5 maka ia akan logout dari program menu admin dan akan diarahkan kembali ke menu utama.
 
+~~ Jika admin memilih pilihan menu selain angka (1-5), maka admin otomatis kembali ke menu admin.
+
+![Cuplikan layar 2024-11-09 220428](https://github.com/user-attachments/assets/7802b52b-6383-49d9-9b53-0aa724782ba4)
+
 
 
 # MENU-MENU PEMBELI ^-^
@@ -343,6 +354,11 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 
 ![Cuplikan layar 2024-11-08 112921](https://github.com/user-attachments/assets/2dc5ad0f-f241-4440-b7e3-81e97297dda1)
 
+>> Output jika pembeli menginputkan nomor produk menggunakan huruf bukannya angka.
+
+![Cuplikan layar 2024-11-09 215613](https://github.com/user-attachments/assets/2f397a25-b53b-4460-a56b-564c24c0d378)
+
+
 >> Output jika pembeli menginputkan jumlah pembelian < 0 dan juga pembeli tidak menginputkan jumlah pembelian.
 
 ![Cuplikan layar 2024-11-08 113500](https://github.com/user-attachments/assets/980e2504-dfe3-4d72-8610-3db5544a82c6)
@@ -350,6 +366,11 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 >> Output jika pembeli menginputkan jumlah pembelian > stok.
 
 ![Cuplikan layar 2024-11-08 113852](https://github.com/user-attachments/assets/cf364397-925c-4cb9-882a-9e8eb82ae577)
+
+>> Output jika pembeli menginputkan jumlah pembelian menggunakan huruf bukannya angka.
+
+![Cuplikan layar 2024-11-09 215849](https://github.com/user-attachments/assets/e3dd2418-60a1-4f81-9481-9985707eaa18)
+
 
 >> Output jika pembeli menginputkan pilihan pembayaran selain yang ada dipilihan.
 
@@ -387,6 +408,11 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 ~  Jika pembeli memilih angka 5, maka pembeli akan diarahkan untuk menu logout, dan pembeli otomatis akan kembali ke menu utama.
 
 ![Cuplikan layar 2024-11-08 165758](https://github.com/user-attachments/assets/f28bede1-af79-4c32-9829-e02f1130267a)
+
+~ Jika pembeli memilih pilihan menu selain angka (1-5), maka pembeli otomatis kembali ke menu pembeli.
+
+![Cuplikan layar 2024-11-09 220604](https://github.com/user-attachments/assets/accac302-ac06-4590-8fa7-b5b0189bf189)
+
 
 
 
