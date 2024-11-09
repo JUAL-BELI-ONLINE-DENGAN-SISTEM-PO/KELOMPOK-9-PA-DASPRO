@@ -6,6 +6,12 @@ Nama Anggota Kelompok 9:
 2. Rahmad Ramadhan 👦
 3. Yardan Raditya Rafi' Widyadhana 👦
 
+# FLOWCHART 
+
+![SEMUANYA drawio (1)](https://github.com/user-attachments/assets/16696103-8881-48e6-b497-e3373cb549ee)
+
+
+
 ![Cuplikan layar 2024-11-07 111511](https://github.com/user-attachments/assets/2ad89afe-e72f-400b-9e9f-b4fc60852096)
 
 Pada awal program akan menampilkan menu awal/utama seperti gambar diatas, Kita diminta untuk menginputkan menu yang ingin dipilih yaitu dari angka (1-4):
