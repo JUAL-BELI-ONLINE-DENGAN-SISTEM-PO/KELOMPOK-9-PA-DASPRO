@@ -325,10 +325,6 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 
 ![Cuplikan layar 2024-11-08 114246](https://github.com/user-attachments/assets/3a90994a-e35f-41fe-9266-27c1ec77edf7)
 
->> Output jika pembeli salah menginputkan username nya pasa saat pembayaran
-
-![Cuplikan layar 2024-11-08 114935](https://github.com/user-attachments/assets/415bb1fd-6c12-4a7a-b8a8-b0a59e9221c1)
-
 >> Output jika pas pembayaran saldo e-money pembeli kurang
 
 ![Cuplikan layar 2024-11-08 115417](https://github.com/user-attachments/assets/502797af-838e-4074-8223-2db11fe88282)
@@ -337,27 +333,17 @@ Setelah menginputkan nomor produk yang ingin dibeli, pembeli diminta untuk mengi
 
 ![Cuplikan layar 2024-11-08 161710](https://github.com/user-attachments/assets/3eade7f3-8588-4bc9-b5fd-fec58c5b26ce)
 
-⫸ Output jika pembeli menginputkan username yang tidak terdaftar di data.
+~  Jika pembeli memilih angka 4, maka pembeli akan diarahkan untuk menu top up saldo e-money dengan menginputkan pilihan top up yang ada Setelah itu pembeli otomatis kembali ke menu pembeli.
 
-![Cuplikan layar 2024-11-08 162210](https://github.com/user-attachments/assets/aea31bc1-e013-4bcd-bdd7-e8023f5509de)
+![Cuplikan layar 2024-11-09 154616](https://github.com/user-attachments/assets/25c1389a-34c4-476b-b535-44bca1115606)
 
-~  Jika pembeli memilih angka 4, maka pembeli akan diarahkan untuk menu top up saldo e-money dengan menginputkan username yang sudah terdaftar terlebih dahulu sebelum top up. Setelah itu pembeli otomatis kembali ke menu pembeli.
-
-![Cuplikan layar 2024-11-08 163757](https://github.com/user-attachments/assets/8afc544a-1984-457d-a4b3-e64a07869d36)
-
-⫸ Output jika pembeli menginputkan username yang sudah terdaftar sebelumnya.
-
-![Cuplikan layar 2024-11-08 163932](https://github.com/user-attachments/assets/72e81be5-ebe6-49b6-97e2-b867f2a87bb9)
-
-Ketika pembeli berhasil menginputkan username, maka akan diarahkan ke pilihan nominaal-nominal untuk top up.
-
-⫸ Output jika menginputkan username yang belum terdaftar.
-
-![Cuplikan layar 2024-11-08 164734](https://github.com/user-attachments/assets/b8fb520e-2a8b-429c-9cab-ecc5b9634eb7)
-
-⫸ Ouput jika pembeli berhasil untuk top up saldo e-money.
+⫸ Output jika pembeli berhasil untuk top up saldo e-money.
 
 ![Cuplikan layar 2024-11-08 165301](https://github.com/user-attachments/assets/699cfe3c-86ce-4082-8d3e-eb388cfa1f15)
+
+⫸ Output jika pembeli menginputkan pilihan top up yang tidak ada di data.
+
+
 
 ~  Jika pembeli memilih angka 5, maka pembeli akan diarahkan untuk menu logout, dan pembeli otomatis akan kembali ke menu utama.
 
